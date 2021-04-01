@@ -272,7 +272,7 @@ import {rTime,howTime} from '../assets/js/toolFun';
   }
   @media screen and (min-width: 0px)and (max-width: 1050px){
    .left{
-       width: 375px;
+       width: 100vw;
 
    }
    .article .title{

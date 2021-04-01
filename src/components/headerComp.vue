@@ -547,8 +547,12 @@ export default {
         display:block;
     }
    .headerBox{
-       width: 375px;
-       overflow-x: hidden;
+       width: 100vw;
+       overflow: hidden;
+   }
+   .headerCenter{
+       width: 100vw;
+       min-width: 100vw;
    }
    .nav-box{
        display: none!important;

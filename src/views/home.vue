@@ -268,12 +268,12 @@ export default {
 }
 @media screen and (min-width: 0px)and (max-width: 750px){
    .body{
-       width: 375px;
+       width: 100vw;
        overflow-x: hidden;
        min-height: calc(100vh - 61px)!important;
    }
    .conLeft{
-     width: 375px!important;
+     width: 100vw!important;
      white-space:normal!important;
       word-wrap:break-word;
    }
